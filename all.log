@@ -1,0 +1,8 @@
+2023-10-04 12:47:57.486 [main] DEBUG api.test.UserTests - debugging
+2023-10-04 12:47:57.502 [main] INFO  api.test.UserTests - ************Creating User*********************
+2023-10-04 12:48:01.634 [main] INFO  api.test.UserTests - ************User is Created*********************
+2023-10-04 12:48:01.640 [main] INFO  api.test.UserTests - ************Reading User info*********************
+2023-10-04 12:48:02.983 [main] INFO  api.test.UserTests - ************Updating User*********************
+2023-10-04 12:48:04.292 [main] INFO  api.test.UserTests - ************User Updated*********************
+2023-10-04 12:48:05.564 [main] INFO  api.test.UserTests - ************Deleting User*********************
+2023-10-04 12:48:06.857 [main] INFO  api.test.UserTests - ************User Deleted*********************
